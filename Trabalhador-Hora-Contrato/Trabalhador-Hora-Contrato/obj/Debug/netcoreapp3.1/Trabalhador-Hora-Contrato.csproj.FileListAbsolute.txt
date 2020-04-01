@@ -1,0 +1,11 @@
+C:\Users\Raell\Desktop\C#\Trabalhador-Hora-Contrato\Trabalhador-Hora-Contrato\obj\Debug\netcoreapp3.1\Trabalhador-Hora-Contrato.csprojAssemblyReference.cache
+C:\Users\Raell\Desktop\C#\Trabalhador-Hora-Contrato\Trabalhador-Hora-Contrato\obj\Debug\netcoreapp3.1\Trabalhador-Hora-Contrato.AssemblyInfoInputs.cache
+C:\Users\Raell\Desktop\C#\Trabalhador-Hora-Contrato\Trabalhador-Hora-Contrato\obj\Debug\netcoreapp3.1\Trabalhador-Hora-Contrato.AssemblyInfo.cs
+C:\Users\Raell\Desktop\C#\Trabalhador-Hora-Contrato\Trabalhador-Hora-Contrato\bin\Debug\netcoreapp3.1\Trabalhador-Hora-Contrato.exe
+C:\Users\Raell\Desktop\C#\Trabalhador-Hora-Contrato\Trabalhador-Hora-Contrato\bin\Debug\netcoreapp3.1\Trabalhador-Hora-Contrato.deps.json
+C:\Users\Raell\Desktop\C#\Trabalhador-Hora-Contrato\Trabalhador-Hora-Contrato\bin\Debug\netcoreapp3.1\Trabalhador-Hora-Contrato.runtimeconfig.json
+C:\Users\Raell\Desktop\C#\Trabalhador-Hora-Contrato\Trabalhador-Hora-Contrato\bin\Debug\netcoreapp3.1\Trabalhador-Hora-Contrato.runtimeconfig.dev.json
+C:\Users\Raell\Desktop\C#\Trabalhador-Hora-Contrato\Trabalhador-Hora-Contrato\bin\Debug\netcoreapp3.1\Trabalhador-Hora-Contrato.dll
+C:\Users\Raell\Desktop\C#\Trabalhador-Hora-Contrato\Trabalhador-Hora-Contrato\bin\Debug\netcoreapp3.1\Trabalhador-Hora-Contrato.pdb
+C:\Users\Raell\Desktop\C#\Trabalhador-Hora-Contrato\Trabalhador-Hora-Contrato\obj\Debug\netcoreapp3.1\Trabalhador-Hora-Contrato.dll
+C:\Users\Raell\Desktop\C#\Trabalhador-Hora-Contrato\Trabalhador-Hora-Contrato\obj\Debug\netcoreapp3.1\Trabalhador-Hora-Contrato.pdb

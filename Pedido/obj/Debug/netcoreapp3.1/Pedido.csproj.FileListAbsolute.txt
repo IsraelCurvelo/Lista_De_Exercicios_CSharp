@@ -1,0 +1,11 @@
+C:\Users\Raell\Desktop\C#\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.exe
+C:\Users\Raell\Desktop\C#\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.deps.json
+C:\Users\Raell\Desktop\C#\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.runtimeconfig.json
+C:\Users\Raell\Desktop\C#\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.runtimeconfig.dev.json
+C:\Users\Raell\Desktop\C#\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.dll
+C:\Users\Raell\Desktop\C#\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.pdb
+C:\Users\Raell\Desktop\C#\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.csprojAssemblyReference.cache
+C:\Users\Raell\Desktop\C#\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.AssemblyInfoInputs.cache
+C:\Users\Raell\Desktop\C#\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.AssemblyInfo.cs
+C:\Users\Raell\Desktop\C#\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.dll
+C:\Users\Raell\Desktop\C#\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.pdb

@@ -1,0 +1,11 @@
+C:\Users\Raell\Desktop\CURSOS\C#\Exercicios\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\netcoreapp3.1\ExerciciosCSharp.exe
+C:\Users\Raell\Desktop\CURSOS\C#\Exercicios\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\netcoreapp3.1\ExerciciosCSharp.deps.json
+C:\Users\Raell\Desktop\CURSOS\C#\Exercicios\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\netcoreapp3.1\ExerciciosCSharp.runtimeconfig.json
+C:\Users\Raell\Desktop\CURSOS\C#\Exercicios\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\netcoreapp3.1\ExerciciosCSharp.runtimeconfig.dev.json
+C:\Users\Raell\Desktop\CURSOS\C#\Exercicios\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\netcoreapp3.1\ExerciciosCSharp.dll
+C:\Users\Raell\Desktop\CURSOS\C#\Exercicios\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\netcoreapp3.1\ExerciciosCSharp.pdb
+C:\Users\Raell\Desktop\CURSOS\C#\Exercicios\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\netcoreapp3.1\ExerciciosCSharp.csprojAssemblyReference.cache
+C:\Users\Raell\Desktop\CURSOS\C#\Exercicios\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\netcoreapp3.1\ExerciciosCSharp.AssemblyInfoInputs.cache
+C:\Users\Raell\Desktop\CURSOS\C#\Exercicios\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\netcoreapp3.1\ExerciciosCSharp.AssemblyInfo.cs
+C:\Users\Raell\Desktop\CURSOS\C#\Exercicios\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\netcoreapp3.1\ExerciciosCSharp.dll
+C:\Users\Raell\Desktop\CURSOS\C#\Exercicios\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\netcoreapp3.1\ExerciciosCSharp.pdb
