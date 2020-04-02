@@ -1,0 +1,11 @@
+C:\Users\Raell\Desktop\C#\Exercicios\ExImpostos\ExImpostos\bin\Debug\netcoreapp3.1\ExImpostos.exe
+C:\Users\Raell\Desktop\C#\Exercicios\ExImpostos\ExImpostos\bin\Debug\netcoreapp3.1\ExImpostos.deps.json
+C:\Users\Raell\Desktop\C#\Exercicios\ExImpostos\ExImpostos\bin\Debug\netcoreapp3.1\ExImpostos.runtimeconfig.json
+C:\Users\Raell\Desktop\C#\Exercicios\ExImpostos\ExImpostos\bin\Debug\netcoreapp3.1\ExImpostos.runtimeconfig.dev.json
+C:\Users\Raell\Desktop\C#\Exercicios\ExImpostos\ExImpostos\bin\Debug\netcoreapp3.1\ExImpostos.dll
+C:\Users\Raell\Desktop\C#\Exercicios\ExImpostos\ExImpostos\bin\Debug\netcoreapp3.1\ExImpostos.pdb
+C:\Users\Raell\Desktop\C#\Exercicios\ExImpostos\ExImpostos\obj\Debug\netcoreapp3.1\ExImpostos.csprojAssemblyReference.cache
+C:\Users\Raell\Desktop\C#\Exercicios\ExImpostos\ExImpostos\obj\Debug\netcoreapp3.1\ExImpostos.AssemblyInfoInputs.cache
+C:\Users\Raell\Desktop\C#\Exercicios\ExImpostos\ExImpostos\obj\Debug\netcoreapp3.1\ExImpostos.AssemblyInfo.cs
+C:\Users\Raell\Desktop\C#\Exercicios\ExImpostos\ExImpostos\obj\Debug\netcoreapp3.1\ExImpostos.dll
+C:\Users\Raell\Desktop\C#\Exercicios\ExImpostos\ExImpostos\obj\Debug\netcoreapp3.1\ExImpostos.pdb

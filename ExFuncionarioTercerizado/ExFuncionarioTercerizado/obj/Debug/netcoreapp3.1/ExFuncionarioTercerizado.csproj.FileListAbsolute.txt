@@ -1,0 +1,11 @@
+C:\Users\Raell\Desktop\C#\ExFuncionarioTercerizado\ExFuncionarioTercerizado\bin\Debug\netcoreapp3.1\ExFuncionarioTercerizado.exe
+C:\Users\Raell\Desktop\C#\ExFuncionarioTercerizado\ExFuncionarioTercerizado\bin\Debug\netcoreapp3.1\ExFuncionarioTercerizado.deps.json
+C:\Users\Raell\Desktop\C#\ExFuncionarioTercerizado\ExFuncionarioTercerizado\bin\Debug\netcoreapp3.1\ExFuncionarioTercerizado.runtimeconfig.json
+C:\Users\Raell\Desktop\C#\ExFuncionarioTercerizado\ExFuncionarioTercerizado\bin\Debug\netcoreapp3.1\ExFuncionarioTercerizado.runtimeconfig.dev.json
+C:\Users\Raell\Desktop\C#\ExFuncionarioTercerizado\ExFuncionarioTercerizado\bin\Debug\netcoreapp3.1\ExFuncionarioTercerizado.dll
+C:\Users\Raell\Desktop\C#\ExFuncionarioTercerizado\ExFuncionarioTercerizado\bin\Debug\netcoreapp3.1\ExFuncionarioTercerizado.pdb
+C:\Users\Raell\Desktop\C#\ExFuncionarioTercerizado\ExFuncionarioTercerizado\obj\Debug\netcoreapp3.1\ExFuncionarioTercerizado.csprojAssemblyReference.cache
+C:\Users\Raell\Desktop\C#\ExFuncionarioTercerizado\ExFuncionarioTercerizado\obj\Debug\netcoreapp3.1\ExFuncionarioTercerizado.AssemblyInfoInputs.cache
+C:\Users\Raell\Desktop\C#\ExFuncionarioTercerizado\ExFuncionarioTercerizado\obj\Debug\netcoreapp3.1\ExFuncionarioTercerizado.AssemblyInfo.cs
+C:\Users\Raell\Desktop\C#\ExFuncionarioTercerizado\ExFuncionarioTercerizado\obj\Debug\netcoreapp3.1\ExFuncionarioTercerizado.dll
+C:\Users\Raell\Desktop\C#\ExFuncionarioTercerizado\ExFuncionarioTercerizado\obj\Debug\netcoreapp3.1\ExFuncionarioTercerizado.pdb

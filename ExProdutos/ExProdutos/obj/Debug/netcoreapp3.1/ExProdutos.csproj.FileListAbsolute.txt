@@ -1,0 +1,11 @@
+C:\Users\Raell\Desktop\C#\ExProdutos\ExProdutos\bin\Debug\netcoreapp3.1\ExProdutos.exe
+C:\Users\Raell\Desktop\C#\ExProdutos\ExProdutos\bin\Debug\netcoreapp3.1\ExProdutos.deps.json
+C:\Users\Raell\Desktop\C#\ExProdutos\ExProdutos\bin\Debug\netcoreapp3.1\ExProdutos.runtimeconfig.json
+C:\Users\Raell\Desktop\C#\ExProdutos\ExProdutos\bin\Debug\netcoreapp3.1\ExProdutos.runtimeconfig.dev.json
+C:\Users\Raell\Desktop\C#\ExProdutos\ExProdutos\bin\Debug\netcoreapp3.1\ExProdutos.dll
+C:\Users\Raell\Desktop\C#\ExProdutos\ExProdutos\bin\Debug\netcoreapp3.1\ExProdutos.pdb
+C:\Users\Raell\Desktop\C#\ExProdutos\ExProdutos\obj\Debug\netcoreapp3.1\ExProdutos.csprojAssemblyReference.cache
+C:\Users\Raell\Desktop\C#\ExProdutos\ExProdutos\obj\Debug\netcoreapp3.1\ExProdutos.AssemblyInfoInputs.cache
+C:\Users\Raell\Desktop\C#\ExProdutos\ExProdutos\obj\Debug\netcoreapp3.1\ExProdutos.AssemblyInfo.cs
+C:\Users\Raell\Desktop\C#\ExProdutos\ExProdutos\obj\Debug\netcoreapp3.1\ExProdutos.dll
+C:\Users\Raell\Desktop\C#\ExProdutos\ExProdutos\obj\Debug\netcoreapp3.1\ExProdutos.pdb
