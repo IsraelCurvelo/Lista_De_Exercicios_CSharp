@@ -1,0 +1,11 @@
+C:\Users\Raell\Desktop\C#\Exercicios\ExContaTry\ExContaTry\bin\Debug\netcoreapp3.1\ExContaTry.exe
+C:\Users\Raell\Desktop\C#\Exercicios\ExContaTry\ExContaTry\bin\Debug\netcoreapp3.1\ExContaTry.deps.json
+C:\Users\Raell\Desktop\C#\Exercicios\ExContaTry\ExContaTry\bin\Debug\netcoreapp3.1\ExContaTry.runtimeconfig.json
+C:\Users\Raell\Desktop\C#\Exercicios\ExContaTry\ExContaTry\bin\Debug\netcoreapp3.1\ExContaTry.runtimeconfig.dev.json
+C:\Users\Raell\Desktop\C#\Exercicios\ExContaTry\ExContaTry\bin\Debug\netcoreapp3.1\ExContaTry.dll
+C:\Users\Raell\Desktop\C#\Exercicios\ExContaTry\ExContaTry\bin\Debug\netcoreapp3.1\ExContaTry.pdb
+C:\Users\Raell\Desktop\C#\Exercicios\ExContaTry\ExContaTry\obj\Debug\netcoreapp3.1\ExContaTry.csprojAssemblyReference.cache
+C:\Users\Raell\Desktop\C#\Exercicios\ExContaTry\ExContaTry\obj\Debug\netcoreapp3.1\ExContaTry.AssemblyInfoInputs.cache
+C:\Users\Raell\Desktop\C#\Exercicios\ExContaTry\ExContaTry\obj\Debug\netcoreapp3.1\ExContaTry.AssemblyInfo.cs
+C:\Users\Raell\Desktop\C#\Exercicios\ExContaTry\ExContaTry\obj\Debug\netcoreapp3.1\ExContaTry.dll
+C:\Users\Raell\Desktop\C#\Exercicios\ExContaTry\ExContaTry\obj\Debug\netcoreapp3.1\ExContaTry.pdb

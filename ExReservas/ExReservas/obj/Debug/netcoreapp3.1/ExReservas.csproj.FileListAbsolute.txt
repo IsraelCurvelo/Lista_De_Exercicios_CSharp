@@ -1,0 +1,11 @@
+C:\Users\Raell\Desktop\C#\Exercicios\ExReservas\ExReservas\bin\Debug\netcoreapp3.1\ExReservas.exe
+C:\Users\Raell\Desktop\C#\Exercicios\ExReservas\ExReservas\bin\Debug\netcoreapp3.1\ExReservas.deps.json
+C:\Users\Raell\Desktop\C#\Exercicios\ExReservas\ExReservas\bin\Debug\netcoreapp3.1\ExReservas.runtimeconfig.json
+C:\Users\Raell\Desktop\C#\Exercicios\ExReservas\ExReservas\bin\Debug\netcoreapp3.1\ExReservas.runtimeconfig.dev.json
+C:\Users\Raell\Desktop\C#\Exercicios\ExReservas\ExReservas\bin\Debug\netcoreapp3.1\ExReservas.dll
+C:\Users\Raell\Desktop\C#\Exercicios\ExReservas\ExReservas\bin\Debug\netcoreapp3.1\ExReservas.pdb
+C:\Users\Raell\Desktop\C#\Exercicios\ExReservas\ExReservas\obj\Debug\netcoreapp3.1\ExReservas.csprojAssemblyReference.cache
+C:\Users\Raell\Desktop\C#\Exercicios\ExReservas\ExReservas\obj\Debug\netcoreapp3.1\ExReservas.AssemblyInfoInputs.cache
+C:\Users\Raell\Desktop\C#\Exercicios\ExReservas\ExReservas\obj\Debug\netcoreapp3.1\ExReservas.AssemblyInfo.cs
+C:\Users\Raell\Desktop\C#\Exercicios\ExReservas\ExReservas\obj\Debug\netcoreapp3.1\ExReservas.dll
+C:\Users\Raell\Desktop\C#\Exercicios\ExReservas\ExReservas\obj\Debug\netcoreapp3.1\ExReservas.pdb
